@@ -9,11 +9,11 @@ How to install
 ======
 The Perl module can be loaded directly into your FHEM installation. For this please copy the below command into the FHEM command line.
 
-```update all https://raw.githubusercontent.com/jowiemann/FritzBox-for-Fhem/master/controls_fritzbox.txt```
+```update all https://raw.githubusercontent.com/jowiemann/FritzBox-for-Fhem/master/controls_fb_fork.txt```
 
 You can add this repository to the update process of Fhem with:
 
-```update add https://raw.githubusercontent.com/jowiemann/FritzBox-for-Fhem/master/controls_fritzbox.txt```
+```update add https://raw.githubusercontent.com/jowiemann/FritzBox-for-Fhem/master/controls_fg_fork.txt```
 
 More Information
 =====
