@@ -13,7 +13,7 @@ The Perl module can be loaded directly into your FHEM installation. For this ple
 
 You can add this repository to the update process of Fhem with:
 
-```update add https://raw.githubusercontent.com/jowiemann/FritzBox-for-Fhem/master/controls_fg_fork.txt```
+```update add https://raw.githubusercontent.com/jowiemann/FritzBox-for-Fhem/master/controls_fb_fork.txt```
 
 More Information
 =====
