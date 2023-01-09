@@ -1,9 +1,9 @@
 # FritzBox-for-Fhem
-FritzBox ist a FHEM modul, based on the original 72_FRITZBOX.pm developed by
+72_FB_FORK ist a FHEM modul, based on the original 72_FRITZBOX.pm developed by
 (c) 2014 Torsten Poitzsch
 (c) 2014-2016 tupol http://forum.fhem.de/index.php?action=profile;u=5432
 
-Attention: 72_FRITZBOX.pm is not yet distributed bei FHEM update
+Attention: 72_FB_FORK.pm is not yet distributed bei FHEM update
 
 How to install
 ======
