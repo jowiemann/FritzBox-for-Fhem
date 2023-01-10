@@ -1,8 +1,8 @@
 # FritzBox-for-Fhem Beta Version
-72_FRITZBOX.pm developed by
-(c) 2014 Torsten Poitzsch
-(c) 2014-2020 tupol http://forum.fhem.de/index.php?action=profile;u=5432
-(c) 2021-2023 jowiemann https://forum.fhem.de/index.php?action=profile
+72_FRITZBOX.pm developed by <br>
+(c) 2014 Torsten Poitzsch <br>
+(c) 2014-2020 tupol http://forum.fhem.de/index.php?action=profile;u=5432 <br>
+(c) 2021-2023 jowiemann https://forum.fhem.de/index.php?action=profile <br>
 
 How to install
 ======
